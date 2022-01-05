@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>LGraebin.Extensions</PackageId>
+    <Title>LGraebin.Extensions</Title>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Lucas Graebin</Authors>
+    <Company>LGraebin.com</Company>
+    <PackageProjectUrl>https://github.com/lgraebin/LGraebin.Extensions</PackageProjectUrl>
+    <Description>A small set of useful extension methods.</Description>
+    <Summary>A small set of useful extension methods.</Summary>
+    <RepositoryUrl>https://github.com/lgraebin/LGraebin.Extensions</RepositoryUrl>
+    <Version>0.1.0</Version>
+    <AssemblyName>LGraebin.Extensions</AssemblyName>
   </PropertyGroup>
 
 </Project>
