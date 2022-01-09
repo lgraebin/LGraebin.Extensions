@@ -11,7 +11,7 @@
     <Description>A small set of useful extension methods.</Description>
     <Summary>A small set of useful extension methods.</Summary>
     <RepositoryUrl>https://github.com/lgraebin/LGraebin.Extensions</RepositoryUrl>
-    <Version>0.1.0</Version>
+    <Version>0.2.0</Version>
     <AssemblyName>LGraebin.Extensions</AssemblyName>
   </PropertyGroup>
 
