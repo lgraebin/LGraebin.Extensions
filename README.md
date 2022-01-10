@@ -9,7 +9,7 @@ PM> Install-Package LGraebin.Extensions
 ```
 
 ## :white_check_mark: Features
-These are the feature available so far.
+These are the features available.
 
 ### Validate e-mail address
 You can call `IsEmail()` on any string to check if it is a valid e-mail address.
